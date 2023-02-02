@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fish
+  - Fish 1
+  - Clam1
+  - Clam3
+  - Clam2
+  - SB
+  - Star1
+  - Star3
+  - Star2
+  - NB1
+  - NB2
+  - NB3
+  - lilstar1_1
+  - lilstar1_2
+  - lilstar1_3
+  - lilstar2_1
+  - lilstar2_2
+  - lilstar2_3
+  - lilstar3_1
+  - lilstar3_2
+  - lilstar3_3
+  - lilstar4_1
+  - lilstar4_2
+  - lilstar4_3
+  - lilstar5_1
+  - lilstar5_2
+  - lilstar5_3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
